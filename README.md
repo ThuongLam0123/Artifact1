@@ -26,7 +26,7 @@
     <li>Increased readership of the Summer Edition of Moema Sports Magazine by 10% throuhg promotional campaigns</li>
   </ul>
 
-<a href="http://www.artofmarketing.com">
+<a href="http://www.artofmarketing.com"></a>
 
 <h3>Responsibilities and achievements:</h3>
   <ul>
@@ -43,7 +43,7 @@
 
 <h3>Computer Skills:</h3>
   <ul>
-    <li>Microsoft XP application <Word, Excel, Office, PowerPOint, Outlook, Access) - Advanced</li>
+    <li>Microsoft XP application (Word, Excel, Office, PowerPOint, Outlook, Access) - Advanced</li>
     <li>Microsoft Office Document Imaging and Scanning - Advanced</li>
     <li>Acrobat Reader 6.0 - Intermediate</li>
     <li>Fidelio Front Office Systems 6.02 - Beginner</li>
@@ -58,34 +58,35 @@
 <h3>Other: </h3>
   <ul>
     <li>St JOhn's Ambulance Senior First Aid Certificate - 2007</li>
+  </ul>
 <h2>PERSONAL COMPETENCIES</h2>
 
 <h2>INTERESTS AND ACTIVITIES</h2>
 
 <h2>REFERENCES</h2>
 
-Mr Juan Maciel<br>
-Events Manager<br>
-Moema Marketing<br>
+Mr Juan Maciel
+Events Manager
+Moema Marketing
 <address>
 13 Sejuado Road<br>
 Moema 38280<br>
 Sao Paulo BRAZIL<br>
 Ph: +555 111 999<br>
 Fax: +555 111 998<br>
-Email: <a href="juanmacial@moemamktg.br"</a>
+Email: <a href="juanmacial@moemamktg.br"></a>
 </address>
 
-Ms Izabela Monteiro<br>
-Marketing Manager<br>
-The Art of Marketing<br>
+Ms Izabela Monteiro
+Marketing Manager
+The Art of Marketing
 <address>
 98 Bonita Way<br>
 Moema 38280<br>
 Sao Paulo BRAZIL<br>
 Ph: +555 222 333<br>
 Fax: +555 222 334<br>
-Email: <a href="izabelam@artofmarketing.com"</a>
+Email: <a href="izabelam@artofmarketing.com"></a>
 </address>
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCultural_landscape&psig=AOvVaw0kcKzCKiiYgTkmyZ5TJBJV&ust=1610472329933000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiUkoyzlO4CFQAAAAAdAAAAABAD" alt"Cultural Landscape"/>
