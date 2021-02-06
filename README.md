@@ -12,18 +12,18 @@
 To expand skills and experience within the marketing department of an international sports events company or association
 
 <h2>EDUCATION HISTORY</h2>
-<strong>May 2006 - Current</strong>
-<i>University of Sao Paulo, Sao Paulo BRAZIL</i>
-http//:www.fe.usp.br
-Masters in International Marketing
+<strong>May 2006 - Current</strong><br>
+<i>University of Sao Paulo, Sao Paulo BRAZIL</i><br>
+http//:www.fe.usp.br<br>
+Masters in International Marketing<br>
 Expected graduation: Oct 2007
 
-<strong>Jan 2002 - Nov 2005</strong>
-<i>University of Sao Paulo, Sao Paulo BRAZIL</i>
+<strong>Jan 2002 - Nov 2005</strong><br>
+<i>University of Sao Paulo, Sao Paulo BRAZIL</i><br>
 Bachelor of Business in Sports Management
 
-<strong>May 1999 - Feb 2001</strong>
-<i>Augusto Laranja High School, Sao Paulo BRAZIL</i>
+<strong>May 1999 - Feb 2001</strong><br>
+<i>Augusto Laranja High School, Sao Paulo BRAZIL</i><br>
 High School Certificate equivalent
 
 <h2>WORK EXPERIENCE</h2>
@@ -31,7 +31,7 @@ High School Certificate equivalent
 Jan 2006 – Current<br>
 MOEMA MARKETING, Sao Paulo BRAZIL<br>
 <a href="http://www.moemamkt.com.br"><br>
-Marketing Trainee – Casual (weekends and holidays)<br>
+Marketing Trainee – Casual (weekends and holidays)
   
 <h3>Responsibilities and achievements:</h3>
   <ul>
@@ -44,7 +44,7 @@ Marketing Trainee – Casual (weekends and holidays)<br>
 Jun 2006 – Sep 2006	<br>
 THE ART OF MARKETING, Sao Paulo BRAZIL<br>
 <a href="http://www.artofmarketing.com"></a><br>
-Internship – 12 weeks full-time<br>
+Internship – 12 weeks full-time
 
 <h3>Responsibilities and achievements:</h3>
   <ul>
