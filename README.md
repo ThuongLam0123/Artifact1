@@ -1,10 +1,12 @@
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
 <hr />
 <h2>PERSONAL DETAILS</h2>
-Residential Address: 	123 Dreamland Street, 45987 Moema BRAZIL 
-Mobile: 		+555 666 777
-Date of Birth: 		1  April 1980
-Nationality: 		Brazilian
+<ul>
+  <li>Residential Address: 	123 Dreamland Street, 45987 Moema BRAZIL</li>
+  <li>Mobile: 		+555 666 777</li>
+  <li>Date of Birth: 		1  April 1980</li>
+  <li>Nationality: 		Brazilian</li>
+  </ul>
 
 <h2>CAREER OBJECTIVE</h2>
 To expand skills and experience within the marketing department of an international sports events company or association
