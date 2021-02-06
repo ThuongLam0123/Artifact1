@@ -28,10 +28,10 @@ High School Certificate equivalent
 
 <h2>WORK EXPERIENCE</h2>
 
-Jan 2006 – Current
-MOEMA MARKETING, Sao Paulo BRAZIL
-<a href="http://www.moemamkt.com.br">
-Marketing Trainee – Casual (weekends and holidays)
+Jan 2006 – Current<br>
+MOEMA MARKETING, Sao Paulo BRAZIL<br>
+<a href="http://www.moemamkt.com.br"><br>
+Marketing Trainee – Casual (weekends and holidays)<br>
   
 <h3>Responsibilities and achievements:</h3>
   <ul>
@@ -41,10 +41,10 @@ Marketing Trainee – Casual (weekends and holidays)
     <li>Increased readership of the Summer Edition of Moema Sports Magazine by 10% throuhg promotional campaigns</li>
   </ul>
 
-Jun 2006 – Sep 2006	
-THE ART OF MARKETING, Sao Paulo BRAZIL
-<a href="http://www.artofmarketing.com"></a>
-Internship – 12 weeks full-time
+Jun 2006 – Sep 2006	<br>
+THE ART OF MARKETING, Sao Paulo BRAZIL<br>
+<a href="http://www.artofmarketing.com"></a><br>
+Internship – 12 weeks full-time<br>
 
 <h3>Responsibilities and achievements:</h3>
   <ul>
@@ -56,12 +56,12 @@ Internship – 12 weeks full-time
   </ul>
   
 <h2>COMMUNITY INVOLVEMENT & RECOGNISED ACHIEVEMENTS</h2>
-2006			Selected as President of University Recreation and Sports Representative Council
-2005/2007	        Commendation for Academic Excellence – Head of Sports Marketing, SP University
-2000 – 2006 		Captained Flora Seju Tennis Team 
-2005			1st place in the Flora Seju Regional Volleyball Championships
-2003 – 2006		Chaired the Sao Paolo Sports Ball Coordination Committee
-2003 – 2007 		Volunteer – Fundraising for Amnesty International and the 40 Hour Famine
+2006			Selected as President of University Recreation and Sports Representative Council<br>
+2005/2007	        Commendation for Academic Excellence – Head of Sports Marketing, SP University<br>
+2000 – 2006 		Captained Flora Seju Tennis Team <br>
+2005			1st place in the Flora Seju Regional Volleyball Championships<br>
+2003 – 2006		Chaired the Sao Paolo Sports Ball Coordination Committee<br>
+2003 – 2007 		Volunteer – Fundraising for Amnesty International and the 40 Hour Famine<br>
 
 <h2>OTHER SKILLS AND CERTIFICATES</h2>
 
@@ -84,10 +84,10 @@ Internship – 12 weeks full-time
     <li>St JOhn's Ambulance Senior First Aid Certificate - 2007</li>
   </ul>
 <h2>PERSONAL COMPETENCIES</h2>
-Ability to work in a fast-paced environment to set deadlines
-Excellent oral and written correspondence with an exceptional attention to detail
-Highly organised with a creative flair for project work
-Enthusiastic self-starter who contributes well to the team
+Ability to work in a fast-paced environment to set deadlines<br>
+Excellent oral and written correspondence with an exceptional attention to detail<br>
+Highly organised with a creative flair for project work<br>
+Enthusiastic self-starter who contributes well to the team<br>
 
 <h2>INTERESTS AND ACTIVITIES</h2>
 Tennis, volleyball, surfing, pottery, graphic design
