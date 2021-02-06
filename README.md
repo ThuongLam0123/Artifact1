@@ -30,7 +30,7 @@ High School Certificate equivalent
 
 Jan 2006 – Current<br>
 MOEMA MARKETING, Sao Paulo BRAZIL<br>
-<a href="http://www.moemamkt.com.br"><br>
+<a href="http://www.moemamkt.com.br"></a>
 Marketing Trainee – Casual (weekends and holidays)
   
 <h3>Responsibilities and achievements:</h3>
@@ -43,7 +43,7 @@ Marketing Trainee – Casual (weekends and holidays)
 
 Jun 2006 – Sep 2006	<br>
 THE ART OF MARKETING, Sao Paulo BRAZIL<br>
-<a href="http://www.artofmarketing.com"></a><br>
+<a href="http://www.artofmarketing.com"></a>
 Internship – 12 weeks full-time
 
 <h3>Responsibilities and achievements:</h3>
