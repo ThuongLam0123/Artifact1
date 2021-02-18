@@ -1,12 +1,13 @@
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
 <hr />
+
 <h2>PERSONAL DETAILS</h2>
-<ul>
-  <li>Residential Address: 	123 Dreamland Street, 45987 Moema BRAZIL</li>
-  <li>Mobile: 		+555 666 777</li>
-  <li>Date of Birth: 		1  April 1980</li>
-  <li>Nationality: 		Brazilian</li>
-  </ul>
+<address>
+Residential Address: 	123 Dreamland Street, 45987 Moema BRAZIL<br>
+Mobile: 		+555 666 777<br>
+Date of Birth: 		1  April 1980<br>
+Nationality: 		Brazilian<br>
+</address>
 
 <h2>CAREER OBJECTIVE</h2>
 To expand skills and experience within the marketing department of an international sports events company or association
@@ -118,5 +119,5 @@ Fax: +555 222 334<br>
 Email: <a href="izabelam@artofmarketing.com"></a>
 </address>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCultural_landscape&psig=AOvVaw0kcKzCKiiYgTkmyZ5TJBJV&ust=1610472329933000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiUkoyzlO4CFQAAAAAdAAAAABAD" alt"Cultural Landscape"/>
+<img src="https://www.jamsadr.com/images/neutrals/person-donald-900x1080.jpg"/>
 <p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5" title="HTML5"></a></p>
